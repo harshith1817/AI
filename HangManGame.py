@@ -1,3 +1,4 @@
+#HangmanGame
 import random
 name=input("what is your name?")
 print("Good Luck !", name)
